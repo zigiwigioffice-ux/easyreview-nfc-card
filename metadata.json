@@ -1,0 +1,6 @@
+{
+  "name": "NFC Review Card Generator",
+  "description": "Generate high-resolution, print-ready CMYK NFC Google Review Cards with custom logo, QR code, and locked premium design parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
